@@ -1,0 +1,41 @@
+.idea-principal{
+    color: rgba(0,0,255,0.5); 
+    font-size: 30px; 
+    padding: 10px 20px;
+}
+
+/*SELECTOR DE ID*/
+#software{
+    color:red;
+}
+
+body {
+    margin: 0; 
+    padding-left: 20%; 
+    padding-right: 20%; 
+    background-color: aliceblue;
+}
+
+#lista {
+    background-color:rgba(0,255,0,0.5);
+}
+
+#item-azul {
+    color: blue;
+}
+
+#item-rojo {
+    color: red;
+}
+
+b {
+    color: green;
+}
+
+* {
+    font-family: 'Zen Antique Soft', serif;
+}
+
+ol p {
+    background-color: yellow;
+}
